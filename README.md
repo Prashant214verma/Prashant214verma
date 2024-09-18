@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning Ml And Gen AI ..
 - 💞️ I’m looking to collaborate on Chatbot and AI...
 - 📫 How to reach me ... My phone : 9664156786
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Hotel booking collection Analysis:**
+  
+
 
 <!---
 Prashant214verma/Prashant214verma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
